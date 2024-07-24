@@ -1,0 +1,4 @@
+A sintaxe PHP
+O script PHP deve ser iniciado pela tag “<?php” e fechado com a tag “?>”. Isso é necessário para que o servidor Web 
+entenda qual código deve ser interpretado e qual deve ser apenas renderizado, uma vez que tags HTML podem ser inseridas 
+dentro de um arquivo contendo código PHP. Veja o exemplo a seguir:

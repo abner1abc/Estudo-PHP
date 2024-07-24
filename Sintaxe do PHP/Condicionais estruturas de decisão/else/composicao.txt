@@ -1,0 +1,9 @@
+Else
+Para apresentar a estrutura else, voltaremos ao exemplo anterior, no qual é verificado se uma variável era maior do que a outra e, em caso positivo, exibida uma mensagem.
+
+Como $var1 é menor que $var2, nada é exibido no navegador, já que a condição é falsa. 
+Nessa situação, para imprimirmos uma mensagem informando que a condição é falsa, ou seja, que $var1 é menor que $var2, faremos uso do else.
+
+Como demonstrado no exemplo, a estrutura else tem a função de definir um fluxo alternativo ao nosso programa, caso uma determinada condição seja falsa.
+
+Em relação à sua sintaxe, vale o que foi dito para if, sobre múltiplas instruções precisarem ser envolvidas em chaves.

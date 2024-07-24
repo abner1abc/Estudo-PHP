@@ -1,0 +1,8 @@
+Elseif/else if
+É uma combinação das duas instruções vistas. Logo, sua função é definir fluxo (ou fluxos) alternativo caso uma condição verificada com if seja falsa. 
+Entretanto, ela permite ainda que uma nova condição (ou até mesmo condições) seja avaliada.
+
+Repare que além da primeira verificação, com o if, foi inserida uma segunda, com elseif. 
+Ao final, a instrução else representa o fluxo caso nem a condição do if nem a do elseif sejam verdadeiras.
+
+Sobre sua sintaxe, além do que já foi dito no if, cabe destacar que não há limites de instruções elseif dentro de uma declaração if.

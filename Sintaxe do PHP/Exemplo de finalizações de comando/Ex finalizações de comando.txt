@@ -1,0 +1,2 @@
+Veja os exemplos de finalização de comandos e de utilização de comentários no emulador de códigos a seguir. 
+Clique em Executar para verificar a saída do código:

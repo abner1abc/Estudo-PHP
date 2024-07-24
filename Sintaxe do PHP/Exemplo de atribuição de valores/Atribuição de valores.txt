@@ -1,0 +1,1 @@
+A atribuição de valores a variáveis em PHP é realizada com a utilização do sinal de igual “=”. Veja este novo exemplo:
