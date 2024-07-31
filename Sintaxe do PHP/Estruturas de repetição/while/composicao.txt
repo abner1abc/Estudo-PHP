@@ -1,0 +1,3 @@
+O laço While possui uma sintaxe simples: enquanto uma expressão for verdadeira, uma série de instruções será executada de forma repetida.
+
+Repare que, no exemplo foram mostradas a forma normal e a forma alternativa do laço while – também presente nas demais estruturas de repetição em PHP. 

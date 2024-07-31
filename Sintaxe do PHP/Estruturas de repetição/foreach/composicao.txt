@@ -1,0 +1,7 @@
+Foreach
+Esse laço é parecido com o for, possuindo uma sintaxe mais simples e sendo muito propício para realizar interações em arrays.
+
+Para fins de comparação e demonstração da diferença entre ambos, em nosso exemplo a mesma operação – imprimir os nomes dos carros – 
+foi realizada tanto com o laço foreach quanto com o laço for.
+
+Além dessas estruturas, em PHP estão disponíveis outros comandos relacionados às estruturas de repetição, como o break e o continue.

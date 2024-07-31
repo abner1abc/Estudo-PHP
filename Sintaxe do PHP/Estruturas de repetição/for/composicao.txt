@@ -1,0 +1,9 @@
+Com o laço for, temos três expressões sendo avaliadas. 
+
+A primeira expressão − “$i = 0” − é avaliada, incondicionalmente, no início da repetição.
+
+A seguir, a cada interação, a segunda expressão − “$i <= 20” − é avaliada. Caso seja verdadeira, o loop continuará.
+
+Por último, ao final de cada interação, a terceira expressão − “$i++” − é avaliada e executada.
+
+Outra possibilidade nesse laço é avaliar múltiplas expressões, que deverão ser separadas por vírgulas. Além disso, também é possível inserir expressões vazias.

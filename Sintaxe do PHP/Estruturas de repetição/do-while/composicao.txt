@@ -1,0 +1,2 @@
+Do-while
+Esse laço é semelhante ao anterior, exceto pelo fato de que a verificação, aqui, é feita ao final. Com isso, a primeira instrução dentro do laço sempre será executada. 

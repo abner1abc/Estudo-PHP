@@ -1,0 +1,3 @@
+A linguagem PHP, por ser simples e bastante flexível, permite diferentes formas de declarar e atribuir valores em um array. 
+Não existe uma maneira melhor do que a outra − qualquer uma delas pode ser utilizada. Nesse sentido, cabe destacar a última forma: 
+ela é bastante útil em situações nas quais não sabemos o tamanho do array ou a quantidade de itens que ele receberá.
