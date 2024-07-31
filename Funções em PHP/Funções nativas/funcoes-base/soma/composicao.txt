@@ -1,0 +1,22 @@
+Funções, em linguagens de programação, são pedaços de código, encapsulados, que podem ser chamados em qualquer outro trecho do programa ou do código. 
+Em relação à sua sintaxe, uma função deve ter um nome, uma definição e uma posterior invocação à mesma.
+
+Em uma linguagem, as funções podem ser nativas − como a função “print_r”, utilizada em alguns exemplos anteriores − ou construídas pelo desenvolvedor – 
+também chamadas de funções definidas pelo usuário.
+
+*Dica
+Em termos práticos, pense nas funções como um código criado para resolver problemas singulares ou executar tarefas específicas. 
+Além disso, tenha em mente que esses códigos poderão ser usados mais de uma vez ao longo do seu projeto. Logo, em vez de reescrever um mesmo código, faça uso de funções.
+
+Como visto no exemplo (aproveite para executá-lo antes de continuar a leitura), a sintaxe de uma função contém os seguintes elementos:
+
+Palavra reservada “function” seguida do nome da função.
+Nome da função seguido de parênteses – “()”. Caso receba parâmetros, eles deverão ser declarados dentro dos parênteses. Do contrário, deverão ficar sem conteúdo.
+Instruções da função envoltas em chaves – “{}”.
+
+As funções em PHP podem ou não retornar resultados. A primeira delas, “soma”, por meio do operador “return”, devolve o resultado da soma entre os dois parâmetros recebidos. 
+Repare que a variável “$num3” recebe justamente esse resultado. Já a função “imprimir_resultado” não retorna valores, apenas imprimindo uma frase na tela.
+
+*Atenção!
+Outra particularidade em PHP é que as funções não precisam estar definidas para serem invocadas. Repare que chamamos as duas antes mesmo de codificá-las. 
+Devemos, porém, nos atentar para a quantidade de parâmetros a serem passados. Além disso, sua sintaxe é simples: “nome-da-funcao(parâmetros)” ou “nome-da-funcao()”.
